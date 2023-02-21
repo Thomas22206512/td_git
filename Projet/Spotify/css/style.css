@@ -1,0 +1,221 @@
+* {
+    margin: 0 auto;
+    font-family: CircularSp,spotify-circular,Helvetica,Arial,sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    align-content: space-between;
+}
+
+.logo {
+    height: 55px;
+    margin: 25px;
+}
+
+.logo-title {
+    margin-left: -20px;
+    line-height: inherit;
+    letter-spacing: -2px;
+    font-size: 35px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+.copyright {
+    font-size: 10px;
+    color: white;
+}
+
+.navbar-left {
+    margin-left: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-right {
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-logo {
+    margin-left: 20px;
+    height: 35px;
+    padding: 7px;
+    border: 2px solid white;
+    border-radius: 40px;
+}
+
+.navbar-items {
+    text-decoration: none;
+    color: white;
+    padding: 28px 17px;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: -1px;
+    line-height: inherit;
+    letter-spacing: 0;
+}
+
+a.navbar-items:hover {
+    color: #1ed760;
+}
+
+.profil:hover {
+    color: #1ed760;
+}
+/* Section pub */
+
+.pub {
+    padding-left: 160px;
+    color: white;
+    background-color: #1d75de;
+    display: flexbox;
+    align-items: baseline;
+}
+
+.pub-link {
+    color: white;
+}
+
+.condition {
+    font-size: 14px;
+    display: inline-flex;
+}
+
+.button-start {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 450;
+    padding: 18px 45px 18px 45px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: black;
+}
+
+.button-offre {
+    font-size: 20px;
+    font-weight: 450;
+    color: white;
+    padding: 18px 45px 18px 45px;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+h2 {
+    padding-top: 150px;
+    padding-bottom: 50px;
+    font-size: 52px;
+    font-weight: 750;
+}
+
+.ecouter {
+    font-size: 30px;
+    font-weight: 200;
+    padding-bottom: 70px;
+}
+
+.bouton {
+    padding-bottom: 80px;
+}
+
+.condition {
+    padding-bottom: 200px;
+}
+
+.button-offre:hover {
+    background-color: #1966c4;
+}
+
+.button-start:hover {
+    background-color: #1966c4;
+}
+
+.pourquoi {
+    display: grid;
+}
+.raison {
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    padding-bottom: 150px;
+}
+.r {
+    display: grid;
+}
+
+.text-r {
+    display: grid;
+}
+.icon-raison {
+    height: 170px;
+    width: 170px;
+}
+
+h3 {
+    letter-spacing: -1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+h4 {
+    letter-spacing: -1;
+    padding-top: 10px;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.end {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: black;
+}
+
+.sylvanus {
+    display: flex;
+}
+
+.offre {
+    display: flex;
+    flex-flow: column wrap;
+    background-color: rebeccapurple;
+}
+
+.carte {
+    margin: 10px;
+    padding: 2px;
+    height: 40px;
+    width: 48px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.moyen {
+    display: flex;
+}
+
+.avantage {
+    color: white;
+    background: radial-gradient(circle at 100% 100%,#000 0,#000 7.4px,transparent 0) 0 0/12.4px 12.4px no-repeat,radial-gradient(circle at 0 100%,#000 0,#000 7.4px,transparent 0) 100% 0/12.4px 12.4px no-repeat,radial-gradient(circle at 100% 0,#000 0,#000 7.4px,transparent 0) 0 100%/12.4px 12.4px no-repeat,radial-gradient(circle at 0 0,#000 0,#000 7.4px,transparent 0) 100% 100%/12.4px 12.4px no-repeat,linear-gradient(#000,#000) 50% 50%/calc(100% - 10px) calc(100% - 24.8px) no-repeat,linear-gradient(#000,#000) 50% 50%/calc(100% - 24.8px) calc(100% - 10px) no-repeat,linear-gradient(54deg,#b00d6e,#ac0e6f 50%,#084791 98%);
+    border-radius: 12.4px;
+    padding: 15px 15px 15px 45px;
+    
+}

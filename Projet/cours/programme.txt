@@ -1,0 +1,50 @@
+12 cours et 12 tds
+
+3 QCM, 1 côntrole et un projet
+
+projet sur .jpeg
+
+python tkinter, pillow et numpy
+
+
+La mémoire de l'ordinateur
+
+dans un ordi, la mémoire est séparer de la (mémoire).
+
+deux type de mémoire Ram et SSD
+
+Qu'y a t'il dans la mémoire d'un ordinateur?
+    -Du binaire 0/1 (a deux dimension)
+
+Compter !!!
+    système décimal, d'autre système comme les chiffres romains et l'homme des caverne utilisai de batons
+
+système additif : on ajoute les valeurs des symboles
+
+    les babyloniens avais un vrai système à base 60 avec seulement deux symboles
+
+clou (1) et chevron(10) la position est importante ainsi que les espaces de séparation
+    c'est un système positionnel
+
+le plus simple : le système binaire avec deux symboles 0 et 1.
+
+octet = 8 bits ou attention byte en anglais
+
+un mots de machine de largeur 32 bits ou 64 bits (8 octet)
+
+Représentation informatique
+    l'octal, base 8
+    l'héxadécimal c'est a dire la base 16 sui utilise
+
+Representer les entiers positif
+    32 bits : il y a une valeur entre 0 et (grand nombres mais petit par rapport a un 64-bits)
+
+Representation négative
+    Bit de signe : on réserve un 1/0 pour donne le signe du nombres
+    problème : deux Représentationpour le 0
+                l'algo dépend du signe
+
+solution : Complément à deux : le nombre négatif a sur b bits s'écrit 2^b - |a|.
+    Le nombre positif a s'écrit a.
+    
+

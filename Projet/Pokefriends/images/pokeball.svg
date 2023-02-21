@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="60" height="60" viewBox="0 0 1080 1080" xml:space="preserve">
+    <title>pokeball</title>
+    <rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+    <g transform="matrix(1 0 0 1 540 540)" id="bd69986e-3fd1-44e3-ba03-835a1ac768e9"  >
+    <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+    </g>
+    <g transform="matrix(1 0 0 1 540 540)" id="9ff075ca-641a-418c-aac4-79c0dafe5cf3"  >
+    </g>
+    <g transform="matrix(8.78 0 0 8.78 540 540)" id="bd4ea719-e9aa-422e-8e93-3e10510874dc"  >
+    <circle style="stroke: rgb(252,121,121); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,82,82); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+    </g>
+    <g transform="matrix(9.66 0 0 6.75 534.37 763.38)" id="0efdf22f-9d6f-4161-ac61-e44e95fc4889"  >
+    <rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.0835" y="-33.0835" rx="0" ry="0" width="66.167" height="66.167" />
+    </g>
+    <g transform="matrix(1.66 0 0 1.66 540 540)" id="01f0528a-399e-4a6f-99ff-9f1191b36122"  >
+    <circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+    </g>
+    <g transform="matrix(1.2 0 0 1.2 540 540)" id="bfd9e88f-0063-491a-b3f0-c6bbcd480c2d"  >
+    <circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(136,136,136); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+    </g>
+    <g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+    <g style=""   >
+    </g>
+    </g>
+    <g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+    <g style=""   >
+    </g>
+    </g>
+    <g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+    <g style=""   >
+    </g>
+    </g>
+    <g transform="matrix(1 0 0 1 540 540)" id="c0531f8c-8318-40b7-b224-1a760bcf3ca2"  >
+    <circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+    </g>
+    <g transform="matrix(1 0 0 1 540 540)" id="f0f87d05-1fb2-4f65-8b29-4bc376082e61"  >
+    <circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+    </g>
+    <g transform="matrix(7.26 0 0 7.26 540 540)" id="b4ba62af-be16-452a-9d43-0498dbda1a9a"  >
+    <path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-50, -50)" d="M 50 92.875 C 26.358 92.875 7.125 73.642 7.125 50 C 7.125 26.358000000000004 26.358 7.125 50 7.125 C 73.642 7.125 92.875 26.358 92.875 50 C 92.875 73.642 73.642 92.875 50 92.875 z M 50 9.125 C 27.461 9.125 9.125 27.461 9.125 50 C 9.125 72.538 27.461 90.875 50 90.875 C 72.538 90.875 90.875 72.538 90.875 50 C 90.875 27.461 72.538 9.125 50 9.125 z" stroke-linecap="round" />
+    </g>
+</svg>
